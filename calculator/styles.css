@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background-color: #E3E3E3;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #001d3d;
+    font-family: 'Press Start 2P', cursive;
+    margin: 50px;
+}
+
+
+.set1,
+.set2,
+.set3,
+.set4 {
+    margin: 1% auto;
+}
+
+
+#btn-1,
+#btn-2,
+#btn-3,
+#btn-4,
+#btn-5,
+#btn-6,
+#btn-7,
+#btn-8,
+#btn-9,
+#btn-0,
+#btn-plus,
+#btn-minus,
+#btn-multiply,
+#btn-equal,
+#btn-divide,
+#btn-clear {
+    border: 5px solid #337CCF;
+    width: 80px;
+    height: 80px;
+    font-size: 2rem;
+}
+
+
+#output {
+    font-size: 2rem;
+    border: 5px solid #337CCF;
+    display: inline-block;
+    width: 320px;
+    height: 50px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+
+}
+
+footer {
+    color: #001d3d;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
