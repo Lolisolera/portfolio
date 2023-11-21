@@ -312,7 +312,7 @@ nav {
     }
 }
 
-/*Changes to the tile-skills section from here- only applied to the HTML tile and image:*/
+/*Changes to the tile-skills section from here: */
 
 .tile-skills {
     background-color: #f5f3f4;
@@ -327,9 +327,10 @@ nav {
 
 
 .tile-skills img {
-    width: 70%;
+    width: 60%;
     max-width: 48rem;
     margin-left: 20px;
+
 
 }
 
@@ -338,8 +339,9 @@ nav {
     font-size: 2rem;
     font-weight: 600;
     padding: 1rem 0;
+    margin-left: 50px;
     color: #EF233C;
-    margin: 40px;
+    margin: 0px;
 }
 
 .tile-skills:hover {
@@ -347,7 +349,10 @@ nav {
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
 }
 
+.tile-skills h4 {
 
+    margin-left: 50px;
+}
 
 /* Changes are between these 2 comments. */
 
@@ -367,11 +372,29 @@ nav {
     }
 }
 
-image.javaScript {
-    margin-left: 25px;
-
+img.js {
+    width: 70%;
+    max-width: 60rem;
+    margin-left: 20px;
 }
 
+img.node {
+    width: 90%;
+    max-width: 60rem;
+    margin-left: 10px;
+}
+
+img.git {
+    width: 75%;
+    max-width: 60rem;
+    margin-left: 15px;
+}
+
+img.sql {
+    width: 80%;
+    height: 75%;
+    margin-left: 15px;
+}
 
 @media (max-width: 990px) {
     .bars {
