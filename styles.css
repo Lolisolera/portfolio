@@ -229,6 +229,11 @@ nav {
 
 
 
+
+
+
+
+
 #projects {
     background-color: #e3e3e3;
 }
@@ -307,10 +312,44 @@ nav {
     }
 }
 
+/*Changes to the tile-skills section from here- only applied to the HTML tile and image:*/
+
+.tile-skills {
+    background-color: #f5f3f4;
+    height: 15rem;
+    width: 15rem;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    border-radius: 0.5rem;
+    transition: all 0.2s;
+    padding: 1.5rem;
+    margin: 1.5rem;
+}
+
+
+.tile-skills img {
+    width: 70%;
+    max-width: 48rem;
+    margin-left: 20px;
+
+}
+
+
+.tile-skills h4 {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1rem 0;
+    color: #EF233C;
+    margin: 40px;
+}
+
+.tile-skills:hover {
+    transform: scale(1.05);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
+}
 
 
 
-
+/* Changes are between these 2 comments. */
 
 .bars {
     height: max-content;
