@@ -359,6 +359,12 @@ nav {
     }
 }
 
+img.html {
+    width: 60%;
+    max-width: 60rem;
+    margin-left: 30px;
+}
+
 img.css {
     width: 60%;
     max-width: 60rem;
@@ -394,6 +400,12 @@ img.mySql {
     height: 75%;
     margin-left: 15px;
 }
+
+h4.html {
+
+    margin-left: 40px;
+}
+
 
 
 h4.css {
