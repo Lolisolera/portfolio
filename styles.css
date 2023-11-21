@@ -361,17 +361,12 @@ nav {
     font-size: 2.3rem;
 }
 
-#benefits {
-    background-color: #f84848;
+
+.gitIcon1 {
+    padding-left: 220px;
 }
 
-#benefits iframe {
-    outline: 0;
-    border: none;
-    width: 100%;
-    border-radius: 0.4rem;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
-}
+
 
 #contact {
     background-color: #cb3737;
