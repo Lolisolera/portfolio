@@ -372,6 +372,12 @@ nav {
     }
 }
 
+img.css {
+    width: 60%;
+    max-width: 60rem;
+    margin-left: 30px;
+}
+
 img.js {
     width: 70%;
     max-width: 60rem;
@@ -395,6 +401,42 @@ img.sql {
     height: 75%;
     margin-left: 15px;
 }
+
+img.mySql {
+    width: 80%;
+    height: 75%;
+    margin-left: 15px;
+}
+
+
+h4.css {
+
+    margin-left: 55px;
+}
+
+
+h4.js {
+
+    margin-left: 30px;
+}
+
+h4.node {
+
+    margin-left: 40px;
+}
+
+
+h4.git {
+
+    margin-left: 60px;
+}
+
+
+h4.python {
+
+    margin-left: 35px;
+}
+
 
 @media (max-width: 990px) {
     .bars {
