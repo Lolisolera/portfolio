@@ -17,7 +17,6 @@ body {
 }
 
 
-
 #header {
     height: max-content;
     font-family: "Montserrat", sans-serif;
@@ -278,18 +277,22 @@ nav {
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
 }
 
+.fa-github {
+
+    margin-left: 220px;
+}
+
+
 
 #skills {
     background-color: #F5F3F4;
 }
 
 
-
 #skills .sec-content-div {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
-    /* Adjust the gap as needed */
 
     @media (max-width: 768px) {
         grid-template-columns: repeat(2, 1fr);
@@ -318,7 +321,7 @@ nav {
     }
 }
 
-.javaScript {
+image.javaScript {
     margin-left: 25px;
 
 }
@@ -360,13 +363,6 @@ nav {
 .txt-container p {
     font-size: 2.3rem;
 }
-
-
-.fa-github {
-
-    margin-left: 220px;
-}
-
 
 
 #contact {
