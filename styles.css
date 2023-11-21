@@ -227,6 +227,8 @@ nav {
     box-shadow: 0 6px 31px -2px rgba(0, 0, 0, 0.1);
 }
 
+
+
 #projects {
     background-color: #e3e3e3;
 }
@@ -263,7 +265,7 @@ nav {
     font-weight: 600;
     padding: 1rem 0;
     color: #EF233C;
-    margin: 0;
+    margin: 0px;
 }
 
 .tile p {
@@ -292,7 +294,7 @@ nav {
 #skills .sec-content-div {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
+    gap: 5px;
 
     @media (max-width: 768px) {
         grid-template-columns: repeat(2, 1fr);
@@ -304,6 +306,11 @@ nav {
         /* Single column for screens up to 480px */
     }
 }
+
+
+
+
+
 
 .bars {
     height: max-content;
