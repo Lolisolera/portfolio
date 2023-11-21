@@ -216,26 +216,13 @@ nav {
 }
 
 #about {
-    background-color: #fafafa;
+    background-color: #e9ecef;
 }
-
-#about img {
-    max-width: 100%;
-    height: auto;
-    background-color: white;
-    border-radius: 0.5rem;
-    box-shadow: 0 6px 31px -2px rgba(0, 0, 0, 0.1);
-}
-
-
-
-
-
 
 
 
 #projects {
-    background-color: #e3e3e3;
+    background-color: #adb5bd;
 }
 
 .tile {
@@ -292,7 +279,7 @@ nav {
 
 
 #skills {
-    background-color: #F5F3F4;
+    background-color: #ced4da;
 }
 
 
@@ -411,7 +398,7 @@ img.mySql {
 
 h4.css {
 
-    margin-left: 55px;
+    margin-left: 50px;
 }
 
 
