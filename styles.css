@@ -21,7 +21,7 @@ body {
     height: max-content;
     font-family: "Montserrat", sans-serif;
     width: 100%;
-    background-color: #D3D3D3;
+    background-color: #495057;
     padding: 1rem 0;
     position: sticky;
     z-index: 99;
@@ -80,7 +80,7 @@ nav {
 
 .nav-link {
     text-decoration: none;
-    color: #161A1D;
+    color: #f8f9fa;
     margin: 0 0.5rem;
     padding: 0 0.6rem;
     transition: border-bottom 0.2s;
