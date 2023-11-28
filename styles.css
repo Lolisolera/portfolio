@@ -18,7 +18,7 @@ body {
 
 .form-group {
     margin-bottom: 15px;
-  }
+}
 
 #header {
     height: max-content;
@@ -364,7 +364,7 @@ nav {
 
 html {
     scroll-padding-top: 4rem;
-  }
+}
 
 img.html {
     width: 60%;
@@ -396,7 +396,7 @@ img.git {
     margin-left: 15px;
 }
 
-img.sql {
+img.replit {
     width: 80%;
     height: 75%;
     margin-left: 15px;
@@ -443,6 +443,10 @@ h4.python {
     margin-left: 35px;
 }
 
+h4.replit {
+
+    margin-left: 48px;
+}
 
 @media (max-width: 990px) {
     .bars {
@@ -496,39 +500,43 @@ h4.python {
         font-size: 2rem;
     }
 
-    #contact input[type="submit"]
-    {
+    #contact input[type="submit"] {
         margin: 1rem 1rem 0 1rem;
     }
 }
 
 .form-group {
     margin-bottom: 15px;
-  }
-  
-  label {
+}
+
+label {
     display: block;
     margin-bottom: 5px;
-  }
-  
-  input[type="text"],
-  input[type="email"],
-  textarea {
-    width: 300px; /* Set width to 300 pixels for all input fields and textarea */
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 300px;
+    /* Set width to 300 pixels for all input fields and textarea */
     padding: 8px;
-    font-family: inherit; /* Inheriting font from the body */
-    font-size: 16px; /* Setting font size to match other fields */
+    font-family: inherit;
+    /* Inheriting font from the body */
+    font-size: 16px;
+    /* Setting font size to match other fields */
     border-radius: 5px;
     border: 1px solid #ccc;
     box-sizing: border-box;
-  }
+}
 
-  textarea {
-    height: 150px; /* Larger height for the 'message' textarea */
-    resize: vertical; /* Allowing vertical resizing */
-  }
-  
-  input[type="submit"] {
+textarea {
+    height: 150px;
+    /* Larger height for the 'message' textarea */
+    resize: vertical;
+    /* Allowing vertical resizing */
+}
+
+input[type="submit"] {
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 5px;
@@ -536,11 +544,11 @@ h4.python {
     background-color: #e23d3d;
     color: white;
     cursor: pointer;
-  }
-  
-  input[type="submit"]:hover {
+}
+
+input[type="submit"]:hover {
     background-color: #e23d3d;
-  }
+}
 
 footer {
     font-size: 1.4rem;
