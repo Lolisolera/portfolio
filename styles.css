@@ -172,7 +172,6 @@ nav {
 
 }
 
-
 .btn {
     border: none;
     font-size: 2rem;
@@ -367,31 +366,34 @@ html {
 }
 
 img.html {
-    width: 60%;
+    width: 55%;
     max-width: 60rem;
     margin-left: 30px;
 }
 
 img.css {
-    width: 60%;
+    width: 55%;
     max-width: 60rem;
     margin-left: 30px;
 }
 
 img.js {
-    width: 70%;
+    width: 65%;
     max-width: 60rem;
     margin-left: 20px;
 }
 
 img.node {
-    width: 90%;
+    width: 85%;
     max-width: 60rem;
     margin-top: 10px;
     margin-left: 10px;
 }
 
 img.python {
+    width: 60%;
+    max-width: 60rem;
+    margin-left: 30px;
     margin-top: 10px;
 }
 
@@ -409,7 +411,7 @@ img.replit {
 }
 
 img.mySql {
-    width: 80%;
+    width: 85%;
     height: 75%;
     margin-left: 15px;
 }
