@@ -387,12 +387,18 @@ img.js {
 img.node {
     width: 90%;
     max-width: 60rem;
+    margin-top: 10px;
     margin-left: 10px;
 }
 
+img.python {
+    margin-top: 10px;
+}
+
 img.git {
-    width: 75%;
+    width: 73%;
     max-width: 60rem;
+    margin-top: 5px;
     margin-left: 15px;
 }
 
