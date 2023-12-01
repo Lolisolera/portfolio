@@ -297,7 +297,7 @@ nav {
 
     @media (max-width: 480px) {
         grid-template-columns: repeat(1, 1fr);
-        margin-left: 20px;
+        margin-left: 50px;
         /* Single column for screens up to 480px */
     }
 }
